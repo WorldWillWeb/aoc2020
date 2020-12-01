@@ -8,5 +8,5 @@ J'utilise le langage PHP pour résoudre les challenges.
 
 Liste de mes solutions :
 
-- [Jour 1](https://github.com/WorldWillWeb/aoc2020/blob/main/day1.php)
+- [Jour 1](https://github.com/WorldWillWeb/aoc2020/tree/main/day1)
 - Jour 2 ...
