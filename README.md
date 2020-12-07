@@ -12,4 +12,6 @@ Liste de mes solutions :
 - [Jour 2](https://github.com/WorldWillWeb/aoc2020/tree/main/day2)
 - [Jour 3](https://github.com/WorldWillWeb/aoc2020/tree/main/day3)
 - [Jour 4](https://github.com/WorldWillWeb/aoc2020/tree/main/day4)
-- Jour 5
+- [Jour 5](https://github.com/WorldWillWeb/aoc2020/tree/main/day5)
+- Jour 6 ..
+
